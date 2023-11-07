@@ -20,7 +20,7 @@
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=spolonio93&theme=radical)](https://github.com/spolonio93/github-profile-trophy)-->
 #### Programming languages and IDEs
-<div>
+<div align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -35,13 +35,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visual studio" alt="visual studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"
 </div>
 
 #### Connect with me
 
+<div>
 <a href="http://www.linkedin.com/in/sergio-polonio-vázquez-2849b5183 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergio-polonio-vázquez-2849b5183" height="20" width="30" /></a>
-
+</div>
 
 <!-- Top Projects -->
 <br>
