@@ -48,7 +48,6 @@
 
 <p align="center">
       <a href="https://github.com/spolonio93">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=spolonio93&theme=radical&hide_border=true&background=1F222E" alt="Sergio's GitHub streak" height="192px" width="54%"/>
       </a>
       <a href="https://github.com/spolonio93"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=spolonio93&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/></a>
     </p>
